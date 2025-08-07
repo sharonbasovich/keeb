@@ -2,7 +2,7 @@
 
 A custom 65% keyboard with two knobs and two function layers to maximize my productivity.
 
-![The Board](aseembly.png)
+![The Board](assembly.png)
 ![The PCB](PCB.png)
 ![The Schematic](schematic.png)
 ## Why did I make this?
@@ -39,4 +39,5 @@ Apart from improving at CAD, KiCAD, programming, and soldering, my goal with thi
 | PCB                                 | 1        | https://jlcpcb.com/                                                                        | 24.30 |
 | Case Bottom                         | 1        | None, 3DP at home                                                                          |       |
 | Case Top                            | 1        | None, 3DP at home                                                                          |       |
+
 
