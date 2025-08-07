@@ -7,6 +7,7 @@ https://hc-cdn.hel1.your-objectstorage.com/s/v3/6bdc2a9380d74c3753306195ba76cc8d
 
 ## Day 2 - 2 hours
 I continued researching, including discussing some ideas with my friends on slack (like my Apex team), I added a few ideas to get the full list and then I began narrowing down the project list.
+
 ![alt text](journal-images/image.png)![alt text](journal-images/image-1.png)
 
 ## Day 3 - 1.5 hours
