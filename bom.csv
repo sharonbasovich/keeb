@@ -2,9 +2,9 @@ Item,Quantity,Link,Price
 Raspberry Pi Pico,1,https://amazon.com/dp/B09KVB8LVR,8.14
 Key Switches (JWICK Ultimate Black),68,https://www.amazon.com/Ultimate-Switch-Switches-Mechanical-Keyboard/dp/B0C391QDFB/?th=1,19.99
 1N4148 Diodes,68,https://www.amazon.com/McIgIcM-1n4148-switching-Standard-Through/dp/B06XB1R2NK/,4.99
-EC11 Rotary Encoder,2,https://www.amazon.com/Encoder-Digital-Potentiometer-Compatible-Arduino/dp/B09KNC1J6H/,9.99
+EC11 Rotary Encoder,2,https://www.amazon.com/Original-Rotary-Encoder-Digital-Potentiometer/dp/B07VP4847G/,3.10
 Keycaps,68,https://www.amazon.ca/Keycaps-Doubleshot-Switches-Mechanical-Keyboard/dp/B0D6QXTZT4/,35.99
 Stabilizers,5,https://www.amazon.com/DUROCK-Stabilizer-Innovative-Pre-clipped-Stabilizers/dp/B0D4QF6TGB/,9.99
 PCB,1,https://jlcpcb.com/,24.30
-Case Bottom,1,"None, 3DP at home",
-Case Top,1,"None, 3DP at home",
+Case Bottom,1,None 3DP at home
+Case Top,1,None 3DP at home
