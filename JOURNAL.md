@@ -42,3 +42,7 @@ I created the top of the case design and then made an assembly of everything. It
 ## Day 12 - 2 hours
 Today was fun, I got to wrap everything up. I made a few minor changes but mostly everything was good so I made the BOM and started collecting final pictures for the README. Making the BOM for a keyboard was a lot of fun because although some components like diodes are standard, there is a ton of variety for key switches and keycaps. I talked to some of my keyboard enthusiast friends for recommendations and read through reddit, forums, and discord servers. Then after a ton of researching (browsing and window shopping) I submitted the project. 
 ![alt text](journal-images/image-12.png)
+
+## Day 13 - 0.5 hours
+With help from my reviewer, I added a screw to hold everything together more securely.
+<img width="407" height="589" alt="image" src="https://github.com/user-attachments/assets/3c73cc5a-655e-496e-9b06-c4f9dd9b11f2" />
