@@ -1,5 +1,5 @@
 # Journal
-## Total time: 28.5 hours
+## Total time: 28.5 hours designing and 6.5 hours building
 ## Day 1 - 3.5 hours
 Today I spent a lot of time brainstorming and collecting information, I considered tons of projects ideas and read through a bunch of posts on highway-pitstop to get a sense of what people were doing.
 
