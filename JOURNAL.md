@@ -46,3 +46,16 @@ Today was fun, I got to wrap everything up. I made a few minor changes but mostl
 ## Day 13 - 0.5 hours
 With help from my reviewer, I added a screw to hold everything together more securely.
 <img width="407" height="589" alt="image" src="https://github.com/user-attachments/assets/3c73cc5a-655e-496e-9b06-c4f9dd9b11f2" />
+
+## Day 14 - 1 hour
+I finished up my 3d model, including adding a hexagon pattern, and then I was accepted! Then I printed the first test iteration. The tolerances were too tight so I adjusted it and reprinted again. The reprint fit pretty well.
+<img width="715" height="953" alt="image" src="https://github.com/user-attachments/assets/de942fff-a093-4e64-aac1-d0592099a85f" />
+
+## Day 15 -  4 hours
+I spent a few hours soldering switches and diodes. Along the way I solved a few issues. First, I was having alignment problems so I checked and some of the switches had really bent pins. Luckily I had a few extra. Also, my soldering iron broke because there is a plastic piece that secures the hot metal to the handle and it snapped. I tried a few things and what worked was using electrical tape to secure it. 
+<img width="1270" height="953" alt="image" src="https://github.com/user-attachments/assets/20a05c16-40d5-4e60-8907-c51a9249c706" />
+<img width="715" height="953" alt="image" src="https://github.com/user-attachments/assets/a73c9154-57ed-4dbd-81f4-7ed2daf08780" />
+
+## Day 16 - 2 hours
+At first, literally nothing was working. The board was outputting over serial that the code ran fine, but I couldn't get an output from the keys. I tried a bunch of different things including testing every single connection for continuity for a full hour and nothing worked. I got super frustrated so I messaged my hardware-knowing friends on Slack. I was convinced it was a hardware issue but eventually we figured out that it was actually that I misconfigured row2col instead of col2row. Finally, it was working so I could secure the case in to place and it was done.
+<img width="1270" height="953" alt="image" src="https://github.com/user-attachments/assets/0efcd833-1fad-4017-b0af-d153d2368651" />
